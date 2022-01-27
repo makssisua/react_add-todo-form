@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,MACE,YAAa,CACb,sBAAuB,CACvB,aAAS,CAAT,QAAS,CACT,gBAAiB,CACjB,mBACF","file":"main.513468c8.chunk.css","sourcesContent":[".page {\n  display: flex;\n  justify-content: center;\n  gap: 20px;\n  padding-top: 40px;\n  padding-bottom: 40px;\n}\n"]}
